@@ -1,2 +1,1 @@
-# glass
-Site teste Google Glass em HTML5 e CSS3
+Google Glass replicated site made by myself with HTML5 and CSS3 for study purpose.
